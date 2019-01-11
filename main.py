@@ -3,6 +3,6 @@
 import requests
 
 print(requests.__version__)
-r = requests.get("http://www.google.com")
-print(r.text)
-print(r.status_code)
+r = requests.get("")
+#print(r.text)
+#print(r.status_code)
